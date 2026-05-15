@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media1.tenor.com/m/EyASgyJCDfEAAAAC/hello-world-animation.gif" width="833" alt="a white background with the words hello world written in black">
+</p>
 <h1 align="center">Greetings I'm Jorge Lopes 😁</h1>
 
 ## 💫 About Me:
