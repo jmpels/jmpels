@@ -8,7 +8,8 @@
 - 🖲️ Currently learning more about animations and gamedev ( as a hobby when i have time )<br> 
 - 🌱 I was an intern at Mediaweb ©<br> 
 - 📫 How to reach me 2231778@my.ipleiria.pt / jorgemiguel12142003@gmail.com<br> 
-- ⚡ Love art, games and nature sounds<br> - 💬 I like to learn new stuff and the truth about things
+- ⚡ Love art, games and nature sounds<br> 
+- 💬 I like to learn new stuff and the truth about things
 
 
 # 💻 Tech i have contact with:
